@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\repository\\countryrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\repository\\countryrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\pokemonowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\pokemonowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\pokemoncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\pokemoncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\helpler\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\helpler\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -15,60 +63,8 @@
       "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\pokemonreviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\pokemonreviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\pokemoncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\pokemoncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\pokemonowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\pokemonowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|d:\\tech-practices\\dotnetthings\\pokemonreviewapp\\pokemonreviewapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F340BCA-FCD5-443A-929F-497A27454CAC}|PokemonReviewApp\\PokemonReviewApp.csproj|solutionrelative:pokemonreviewapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,46 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\.gitignore",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\.gitignore",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\.gitignore",
-              "RelativeToolTip": "PokemonReviewApp\\.gitignore",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
-              "WhenOpened": "2024-06-05T06:59:05.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240605064604_InitialCreate.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Migrations\\20240605064604_InitialCreate.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Migrations\\20240605064604_InitialCreate.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Migrations\\20240605064604_InitialCreate.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Migrations\\20240605064604_InitialCreate.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAmwGIAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:46:04.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Owner.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Owner.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\Owner.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Owner.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Models\\Owner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T06:00:24.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Seed.cs",
               "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Seed.cs",
               "RelativeDocumentMoniker": "PokemonReviewApp\\Seed.cs",
@@ -138,20 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PokemonReviewApp",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\PokemonReviewApp.csproj",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\PokemonReviewApp.csproj",
-              "RelativeToolTip": "PokemonReviewApp\\PokemonReviewApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-05T05:14:40.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "PokemonReviewApp\\appsettings.Development.json",
@@ -164,33 +108,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Data\\DataContext.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Data\\DataContext.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Data\\DataContext.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "DocumentIndex": 1,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T14:04:11.148Z",
+              "WhenOpened": "2024-06-06T05:05:08.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryRespository.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Repository\\CountryRespository.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Repository\\CountryRespository.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Repository\\CountryRespository.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Repository\\CountryRespository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:04:59.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonOwner.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\PokemonOwner.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\PokemonOwner.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\PokemonOwner.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Models\\PokemonOwner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:54:32.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:30:12.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Program.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Program.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Program.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAAEAAAA",
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Controllers\\PokemonController.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T09:57:46.887Z",
+              "WhenOpened": "2024-06-06T05:02:04.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "PokemonCategory.cs",
               "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\PokemonCategory.cs",
               "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\PokemonCategory.cs",
@@ -204,105 +187,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Review.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\Review.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Review.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Models\\Review.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Program.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Program.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Program.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:16:59.841Z",
+              "WhenOpened": "2024-06-06T05:13:58.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PokemonOwner.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\PokemonOwner.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\PokemonOwner.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\PokemonOwner.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Models\\PokemonOwner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:54:32.795Z",
+              "WhenOpened": "2024-06-06T05:17:58.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Pokemon.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Pokemon.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\Pokemon.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Pokemon.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Models\\Pokemon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "DocumentIndex": 9,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Helpler\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Helpler\\MappingProfiles.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Helpler\\MappingProfiles.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Helpler\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:24:05.615Z",
+              "WhenOpened": "2024-06-06T05:01:39.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\Category.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Category.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:24:52.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Reviewer.cs",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Reviewer.cs",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\Reviewer.cs",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Reviewer.cs",
-              "RelativeToolTip": "PokemonReviewApp\\Models\\Reviewer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:19:31.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Country.cs",
               "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Country.cs",
               "RelativeDocumentMoniker": "PokemonReviewApp\\Models\\Country.cs",
               "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Models\\Country.cs",
               "RelativeToolTip": "PokemonReviewApp\\Models\\Country.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:12:38.409Z",
+              "WhenOpened": "2024-06-06T05:01:23.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PokemonReviewApp\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T09:55:34.004Z",
+              "DocumentIndex": 10,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Dto\\CountryDto.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Dto\\CountryDto.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Dto\\CountryDto.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Dto\\CountryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:01:13.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\appsettings.json",
-              "RelativeDocumentMoniker": "PokemonReviewApp\\appsettings.json",
-              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\appsettings.json",
-              "RelativeToolTip": "PokemonReviewApp\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T09:55:21.342Z",
+              "DocumentIndex": 12,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\.gitignore",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\.gitignore",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\.gitignore",
+              "RelativeToolTip": "PokemonReviewApp\\.gitignore",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
+              "WhenOpened": "2024-06-05T06:59:05.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240605064604_InitialCreate.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Migrations\\20240605064604_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Migrations\\20240605064604_InitialCreate.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Migrations\\20240605064604_InitialCreate.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Migrations\\20240605064604_InitialCreate.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAmwGIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:46:04.344Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "PokemonReviewApp\\Controllers\\CountryController.cs",
+              "ToolTip": "D:\\tech-practices\\dotnetThings\\PokemonReviewApp\\PokemonReviewApp\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "PokemonReviewApp\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwDsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:01:59.822Z",
               "EditorCaption": ""
             }
           ]
