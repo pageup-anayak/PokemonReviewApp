@@ -108,6 +108,11 @@ namespace PokemonReviewApp.Controllers
                 return StatusCode(422, ModelState);
             }
 
+            if (!_countryRepository.CountryExists(countryId))
+            {
+                return NotFound("Country dose not exists");
+            }
+
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
@@ -120,8 +125,44 @@ namespace PokemonReviewApp.Controllers
                 ModelState.AddModelError("", "Something went wrong while savin");
                 return StatusCode(500, ModelState);
             }
-
             return Ok("Successfully created");
+        }
+
+
+
+        [HttpPut("{ownerId}")]
+        [ProducesResponseType(204)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(404)]
+        public IActionResult UpdateOwner(int ownerId, [FromBody] OwnerDto updatedowner)
+        {
+            if (updatedowner == null)
+            {
+                return BadRequest(ModelState);
+            }
+
+            if (ownerId != updatedowner.Id)
+            {
+                return BadRequest(ModelState);
+            }
+
+            if (!_ownerRepository.OwnerExists(ownerId))
+            {
+                return NotFound();
+            }
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest();
+            }
+            var ownerMap = _mapper.Map<Owner>(updatedowner);
+
+            if (!_ownerRepository.UpdateOwner(ownerMap))
+            {
+                ModelState.AddModelError("", "Something went wrong updating owner");
+                return StatusCode(500, ModelState);
+            }
+            return NoContent();
         }
     }
 }
