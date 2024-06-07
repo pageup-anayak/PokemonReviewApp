@@ -8,13 +8,9 @@ namespace PokemonReviewApp.Repository
     public class CountryRespository : ICountryRepository
     {
         private readonly DataContext _context;
-
-        private readonly IMapper _mapper;
-
-        public CountryRespository(DataContext context, IMapper mapper)
+        public CountryRespository(DataContext context)
         {
             _context = context;
-            _mapper = mapper;
         }
         public bool CountryExists(int countryId)
         {
@@ -59,6 +55,10 @@ namespace PokemonReviewApp.Repository
             return saved > 0 ? true : false;
         }
 
-
+        public bool DeleteCountry(Country country)
+        {
+            _context.Remove(country);
+            return Save();
+        }
     }
 }

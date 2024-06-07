@@ -22,6 +22,12 @@ namespace PokemonReviewApp.Repository
             return Save();
         }
 
+        public bool DeleteCategory(Category category)
+        {
+            _context.Remove(category);
+            return Save();
+        }
+
         public Category GetCategory(int id)
         {
             return _context.Categories.Where(c => c.Id == id).FirstOrDefault();

@@ -51,7 +51,7 @@ namespace countryReviewApp.Controllers
         }
 
 
-        [HttpGet("/owners/{ownerId}")]
+        [HttpGet("owners/{ownerId}")]
         [ProducesResponseType(400)]
         [ProducesResponseType(200, Type = typeof(Country))]
         public IActionResult GetCountryByAnOwner(int ownerId)
@@ -131,6 +131,31 @@ namespace countryReviewApp.Controllers
             {
                 ModelState.AddModelError("", "Something went wrong updating Country");
                 return StatusCode(500, ModelState);
+            }
+            return NoContent();
+        }
+
+        [HttpDelete("{countryId}")]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(204)]
+        [ProducesResponseType(404)]
+        public IActionResult DeleteCountry(int countryId)
+        {
+            if (!_countryRepository.CountryExists(countryId))
+            {
+                return NotFound("Country Dose not exists");
+            }
+
+            var countryToDelete = _countryRepository.GetCountry(countryId);
+
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            if (!_countryRepository.DeleteCountry(countryToDelete))
+            {
+                ModelState.AddModelError("", "Something went wrong while deleting");
             }
             return NoContent();
         }
